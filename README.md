@@ -27,7 +27,7 @@
     14. Backtracking
     15. Dynamic Programming
     
-* Note: This course id paid on GeeksForGeeks, if you want to give test
+* Note: This course is paid on GeeksForGeeks, if you want to give test
         of topics i.e practice questions 
         Buy it on [GeeksForGeeks](https://practice.geeksforgeeks.org/courses/Amazon-Test-Series?vC=1)
         
